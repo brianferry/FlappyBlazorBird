@@ -10,7 +10,7 @@ using Microsoft.JSInterop;
 
 // THIS CODE IS "DIRECT TRANSLATION" FROM PYTHON PYGAME TO C# BLAZOR. REFACTOR PENDING
 
-namespace FlappyBlazorBird.Client.Pages
+namespace FlappyBlazorBird.Client.Helpers
 {
 
     public class Statistics
